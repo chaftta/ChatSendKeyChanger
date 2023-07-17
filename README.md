@@ -1,0 +1,2 @@
+# ChatSendKeyChanger
+ChatGPTの改行動作を変更するfirefox用プラグイン
